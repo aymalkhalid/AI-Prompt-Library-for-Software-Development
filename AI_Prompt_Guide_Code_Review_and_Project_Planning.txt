@@ -1,0 +1,47 @@
+1. **Code Analysis Preparation Prompt**  
+   "I'm going to paste some [type of code] for a [specific class or function]. Please analyze it and wait for further instructions."
+
+2. **Comprehensive Code Review Prompt**  
+   "Perform a comprehensive code review of this [class or function]. Suggest improvements in terms of error handling, method design, data validation, and overall best practices. Also, consider potential optimizations for scalability."
+
+3. **Code Modification and Enhancement Prompt**  
+   "Modify the [class or function] to incorporate the suggested improvements. Include proper error handling, type and data validation, and add a method to [specific feature]."
+
+4. **Test Case Generation Prompt**  
+   "Generate a set of test cases to verify the functionality of the improved [class or function], including edge cases and potential error scenarios."
+
+5. **Comprehensive Documentation Generation Prompt**  
+   "Using the improved [class or function], generate comprehensive documentation. Include a description, method descriptions, parameters, return values, and usage examples. Format the documentation in markdown."
+
+6. **Docstring Addition Prompt**  
+   "Add compliant docstrings to each method in the [class or function]. Include descriptions of parameters, return values, and any exceptions that may be raised."
+
+7. **ReadMe File Creation Prompt**  
+   "Create a ReadMe file for a project that uses this [class or function]. Include sections for installation, usage, API documentation, and contribution guidelines."
+   
+8. **Project Plan Development Prompt**  
+   "Create a detailed project plan for developing a system that includes the [class or function]. Include main phases, key tasks, estimated timelines, and major milestones. Cover frontend development, backend API, database design, and integration with external services."
+
+9. **Risk Assessment and Mitigation Prompt**  
+   "What are the potential risks in implementing this system and how can we mitigate them? Consider technical, operational, and business risks."
+
+10. **User Story Generation Prompt**  
+    "Generate a list of user stories for this system. Follow the format: 'As a [type of user], I want [type of action] so that [benefit].' Include stories for different types of users."
+
+11. **Team Structure and Skill Requirement Prompt**  
+    "Suggest the team structure and required skills for implementing this system. Include roles for development, database administration, UI/UX design, project management, and quality assurance."
+
+12. **Sprint Plan Creation Prompt**  
+    "Create a sprint plan for the first two-week sprint of this project. Include specific tasks, their estimated story points, and assign them to the defined roles."
+
+13. **File/Folder Structure Suggestion Prompt**  
+   "Propose a file/folder structure for the project and ask a series of yes/no questions for better recommendations."
+
+14. **Database Connection Strategy Analysis Prompt**  
+   "Discuss different ways to implement database connection logic and analyze the pros and cons of each approach in a specified file (e.g., db.ts)."
+
+15. **Code Refactoring Guidance Prompt**  
+    "Assist in refactoring the code in a specified file (e.g., main.py) to solve a given problem."
+
+16. **Regex Instruction Prompt**  
+    "Teach regex in a step-by-step manner, providing fun exercises and waiting for student interaction to proceed."
